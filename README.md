@@ -4,7 +4,7 @@ A clean, modern, and responsive personal resume website built using **HTML5 and 
 
 ## 🌐 Live Website
 
-🔗 **[View My Resume](YOUR-GITHUB-PAGES-URL)**
+🔗 **[View My Resume](https://personal-resume-black.vercel.app/)**
 
 ## 👨‍💻 About the Project
 
